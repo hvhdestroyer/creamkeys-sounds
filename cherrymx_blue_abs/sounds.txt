@@ -40,3 +40,6 @@ key_22.wav
 key_2.wav
 key_23.wav
 key_1.wav
+mouse1.wav
+mouse2.wav
+mouse_release.wav
